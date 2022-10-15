@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CalculoImpostoRenda</string>
+<!--    tela de calculo do imposto de renda-->
+    <string name="salario">Salário</string>
+    <string name="preencha_salario">Preencha o salário</string>
+    <string name="calcular">Calcular</string>
+    <string name="salario_liquido">Salário Líquido</string>
+    <string name="imposto">Imposto</string>
+
+
+</resources>
