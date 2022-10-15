@@ -48,7 +48,7 @@ salarioLiquido.text = resources.getString(R.string.result_salliquid, f.format(sa
 </resources>
 ```
 
-## Cálculo do Imposto de Renda e Salário Líquido
+## Cálculo do Imposto de Renda e Salário Líquido:
 
 ```kotlin
 fun calcTax(salary: Double) {
